@@ -12,7 +12,7 @@ Address: 40092-00100, Nairobi, Kenya
 # About
 I am a passionate and proactive software engineer with proven leadership, problem-solving and teamwork skills. Aiming to leverage my abili es to successfully fill the posi on of so􀁛ware engineer role at your company. Frequently praised as hardworking by my peers, I can be relied upon to help your company achieve its goals.
 # Education
-Bachelor of Business Management
+Bachelor of Business Management(Finance and Banking major)
 
 # Skills
 - Ruby
