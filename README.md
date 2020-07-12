@@ -43,7 +43,7 @@ Bachelor of Business Management
 I worked both as an individual contributor to the team's codebase as well as a
 technical coordinator.
 As a coordinator, I worked closely with the TTL(technical team lead), Product Manager, Product Coordinator, and a team of Andela junior engineers building a performance evaluation tool used for the recruitment of junior engineers.
-#####My responsibilities included:
+##### My responsibilities included:
 - Backlog grooming and product road-mapping.
 - Doing deployments to staging and shipping work to production on a bi-weekly
 basis.
